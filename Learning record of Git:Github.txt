@@ -12,3 +12,11 @@ This is the learning recorde of the git and github
    A commit will track all file in the repository and record the changes happen to them.
 
 6. git checkout ID: make the file as the version of that ID so that we can trace back where changes happen
+
+7. git repository also store metadata about the history of the repository and stalled in hidden directory
+
+8. when initialize a git repository, there is no commmit which can be proved useing 'git log' after 'git init'.
+
+9. Staging area allows us to add files that we want to commit the change which gives us more control of what we want to do with our files
+
+10. 'git status' will show what have been added to staging and what are left untracking

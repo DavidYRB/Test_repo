@@ -1,0 +1,1 @@
+This is just for creating a new file after initialization of a git repo
