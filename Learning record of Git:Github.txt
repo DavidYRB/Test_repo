@@ -1,0 +1,14 @@
+This is the learning recorde of the git and github
+1. For comparison the difference between two versions of a file, use diff command in Linux/Unix OS and FC command in Windows
+
+2. This is the second time I change this file, for reflection of the version control. Since we can efficiently find out the difference between current version and historical version of a file, we can modify it easily
+
+3. git log show the changes that commited to the file
+   git log --stat: give how many changes to the file
+
+4. git diff ID1 ID2: comparing the two changes
+
+5. A commit should corresponding to a logical change which will make the log easy to read. 
+   A commit will track all file in the repository and record the changes happen to them.
+
+6. git checkout ID: make the file as the version of that ID so that we can trace back where changes happen
