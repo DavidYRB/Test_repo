@@ -20,3 +20,9 @@ This is the learning recorde of the git and github
 9. Staging area allows us to add files that we want to commit the change which gives us more control of what we want to do with our files
 
 10. 'git status' will show what have been added to staging and what are left untracking
+
+11. 'git diff' will compare the difference between working directory and staging area, if some files are addedd to staging area but not commited, this command will not show the change since these files are same in both working and staging area. 
+
+12. 'git diff --staged' will compare the difference between staging area and the most commit in git repository
+
+13. 'git reset --hard' will discard any change to the files in either working directory or staging area
